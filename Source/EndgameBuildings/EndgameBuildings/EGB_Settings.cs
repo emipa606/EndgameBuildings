@@ -32,9 +32,10 @@ public class EGB_Settings : Mod
         var buffer3 = Settings.HT_FireFoamPopperRadius.ToString();
         listing_Standard.TextFieldNumericLabeled(
             "EGB_HT_FireFoamPopperRadius".Translate() + Settings.HT_FireFoamPopperRadius.ToString(),
-            ref Settings.HT_FireFoamPopperRadius, ref buffer3, 1f, 56f);
+            ref Settings.HT_FireFoamPopperRadius, ref buffer3, 1f, MAX_FIREFOAM_POPPER_RADIUS);
         listing_Standard.Gap();
-        Settings.HT_FireFoamPopperRadius = listing_Standard.Slider(Settings.HT_FireFoamPopperRadius, 1f, 56f);
+        Settings.HT_FireFoamPopperRadius =
+            listing_Standard.Slider(Settings.HT_FireFoamPopperRadius, 1f, MAX_FIREFOAM_POPPER_RADIUS);
         EGB_OnDefsLoaded.ApplySettingsToDefs();
         if (currentVersion != null)
         {

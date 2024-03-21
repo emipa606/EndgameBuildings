@@ -1,5 +1,6 @@
 using System;
 using System.Linq;
+using HarmonyLib;
 using RimWorld;
 using Verse;
 
@@ -15,8 +16,9 @@ public class EGB_OnDefsLoaded
 
     public static void ApplySettingsToDefs()
     {
-        DefDatabase<ThingDef>.GetNamed("SE_FusionReactor").comps.OfType<CompProperties_Power>().First()
-            .basePowerConsumption = -Math.Abs(EGB_Settings.Settings.HT_ReactorOutput);
+        AccessTools.Field(typeof(CompProperties_Power), "basePowerConsumption").SetValue(
+            DefDatabase<ThingDef>.GetNamed("SE_FusionReactor").comps.OfType<CompProperties_Power>().First(),
+            -Math.Abs(EGB_Settings.Settings.HT_ReactorOutput));
         var named = DefDatabase<ThingDef>.GetNamed("FirefoamPopperMKII");
         named.comps.OfType<CompProperties_Explosive>().First().explosiveRadius =
             EGB_Settings.Settings.HT_FireFoamPopperRadius;

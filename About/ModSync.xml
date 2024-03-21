@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>0bc8eed1-bd8c-43da-a9d4-83b1c9d53656</ID>
   <ModName>Endgame Buildings (Continued)</ModName>
-  <Version>1.4.0</Version>
+  <Version>1.5.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
