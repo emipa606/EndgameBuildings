@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- ================================ Tool Cabinet MKII ================================ -->
   <ThingDef ParentName="BuildingBase">
@@ -185,7 +185,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>FirefoamPopperMKII</defName>
     <label>hi-tech firefoam popper</label>
-    <description>When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. Has a bigger radius than the regular Firefoam popper (from 9.9 --&gt; 24.9).</description>
+    <description>When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. Has a bigger radius than the regular Firefoam popper (from 9.9 --> 24.9).</description>
     <graphicData>
       <texPath>FirefoamPopperMKII/FirefoamPopperMKII</texPath>
       <graphicClass>Graphic_Single</graphicClass>

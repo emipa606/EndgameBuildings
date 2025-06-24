@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: computerized education -->
+  <ComputerizedEducation.label>computerized education</ComputerizedEducation.label>
+  <!-- EN: Enables the construction of computers for education your colonists. -->
+  <ComputerizedEducation.description>Enables the construction of computers for education your colonists.</ComputerizedEducation.description>
+  <!-- EN: fusion reactor -->
+  <FusionReactor.label>fusion reactor</FusionReactor.label>
+  <!-- EN: Enables the construction of fusion reactors. -->
+  <FusionReactor.description>Enables the construction of fusion reactors.</FusionReactor.description>
+  <!-- EN: hi-Tech Kitchen -->
+  <hitech_kitchen_research.label>hi-Tech Kitchen</hitech_kitchen_research.label>
+  <!-- EN: Cook lavish meals from basic raw food and improves hay. -->
+  <hitech_kitchen_research.description>Cook lavish meals from basic raw food and improves hay.</hitech_kitchen_research.description>
+  <!-- EN: miscellaneous hi-techs -->
+  <HitechMiscellaneous.label>miscellaneous hi-techs</HitechMiscellaneous.label>
+  <!-- EN: Enables the construction of various hi-tech techs. -->
+  <HitechMiscellaneous.description>Enables the construction of various hi-tech techs.</HitechMiscellaneous.description>
+  <!-- EN: hi-tech research -->
+  <HitechResearch.label>hi-tech research</HitechResearch.label>
+  <!-- EN: Enables the research of hi-tech techs. -->
+  <HitechResearch.description>Enables the research of hi-tech techs.</HitechResearch.description>
+  <!-- EN: hi-Tech Vitals Monitor -->
+  <HitechVitalsMonitor.label>hi-Tech Vitals Monitor</HitechVitalsMonitor.label>
+  <!-- EN: Enables the construction of better vital monitors. -->
+  <HitechVitalsMonitor.description>Enables the construction of better vital monitors.</HitechVitalsMonitor.description>
+  <!-- EN: hi-Tech Workbenches -->
+  <HitechWorkbenches.label>hi-Tech Workbenches</HitechWorkbenches.label>
+  <!-- EN: Enables the construction of hi-tech workbenches. -->
+  <HitechWorkbenches.description>Enables the construction of hi-tech workbenches.</HitechWorkbenches.description>
+</LanguageData>

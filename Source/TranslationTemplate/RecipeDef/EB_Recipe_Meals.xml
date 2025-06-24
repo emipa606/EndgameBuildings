@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cook 2 lavish meals ext. -->
+  <CookMealLavishExt.label>cook 2 lavish meals ext.</CookMealLavishExt.label>
+  <!-- EN: Cook a very complex meal from simple ingredients. Uses 4x as many ingredients compared to a simple meal. -->
+  <CookMealLavishExt.description>Cook a very complex meal from simple ingredients. Uses 4x as many ingredients compared to a simple meal.</CookMealLavishExt.description>
+  <!-- EN: Cooking 2 extended lavish meals. -->
+  <CookMealLavishExt.jobString>Cooking 2 extended lavish meals.</CookMealLavishExt.jobString>
+  <!-- EN: cook 20 lavish meals ext. -->
+  <CookMealLavishExt20.label>cook 20 lavish meals ext.</CookMealLavishExt20.label>
+  <!-- EN: Cook a very complex meal from simple ingredients. Uses 4x (+ an additional 5%) as many ingredients compared to a simple meal. -->
+  <CookMealLavishExt20.description>Cook a very complex meal from simple ingredients. Uses 4x (+ an additional 5%) as many ingredients compared to a simple meal.</CookMealLavishExt20.description>
+  <!-- EN: Cooking 20 extended lavish meals. -->
+  <CookMealLavishExt20.jobString>Cooking 20 extended lavish meals.</CookMealLavishExt20.jobString>
+  <!-- EN: cook 50 lavish meals ext. -->
+  <CookMealLavishExt50.label>cook 50 lavish meals ext.</CookMealLavishExt50.label>
+  <!-- EN: Cook a very complex meal from simple ingredients. Uses 4x (+ an additional 10%) as many ingredients compared to a simple meal. -->
+  <CookMealLavishExt50.description>Cook a very complex meal from simple ingredients. Uses 4x (+ an additional 10%) as many ingredients compared to a simple meal.</CookMealLavishExt50.description>
+  <!-- EN: Cooking 50 extended lavish meals. -->
+  <CookMealLavishExt50.jobString>Cooking 50 extended lavish meals.</CookMealLavishExt50.jobString>
+  <!-- EN: cook 2 lavish lunchbox meals -->
+  <CookMealLavishLunchbox.label>cook 2 lavish lunchbox meals</CookMealLavishLunchbox.label>
+  <!-- EN: Cook a very complex lunchbox meal from simple ingredients. Uses 5x as many ingredients compared to a simple meal. This meal does not spoil or deteriorate. -->
+  <CookMealLavishLunchbox.description>Cook a very complex lunchbox meal from simple ingredients. Uses 5x as many ingredients compared to a simple meal. This meal does not spoil or deteriorate.</CookMealLavishLunchbox.description>
+  <!-- EN: Cooking lavish lunchbox meal. -->
+  <CookMealLavishLunchbox.jobString>Cooking lavish lunchbox meal.</CookMealLavishLunchbox.jobString>
+  <!-- EN: create improved hay -->
+  <CreateImproveHay.label>create improved hay</CreateImproveHay.label>
+  <!-- EN: improve hay. -->
+  <CreateImproveHay.description>improve hay.</CreateImproveHay.description>
+  <!-- EN: Improving hay. -->
+  <CreateImproveHay.jobString>Improving hay.</CreateImproveHay.jobString>
+</LanguageData>

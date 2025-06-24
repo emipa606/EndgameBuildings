@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 41781010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce419540144b78dd0ead03447ef9d794
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ce419540144b78dd0ead03447ef9d794
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.EndgameBuildings/Textures/HiTechKitchen/HiTechKitchen_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/HiTechKitchen/HiTechKitchen_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/HiTechKitchen/HiTechKitchen_northm.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Computers/PC_Mining.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Computers/PC_Cooking.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/HiTechKitchen/HiTechKitchen_MenuIcon.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/ImprovedHay/ImprovedHay_c.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnMedicine_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnCrafting_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnConstruction_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Computers/PC_Social.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/HiTechKitchen/HiTechKitchen_eastm.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/LunchboxCasing/LunchboxCasing_b.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/FirefoamPopperMKII/FirefoamPopperMKII.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/ImprovedHay/ImprovedHay_a.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnAnimals_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/HiTechKitchen/HiTechKitchen_southm.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnCooking_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnConstruction_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Computers/PC_Growing.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/DeepDrill/DeepDrill.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/FusionReactor/FusionReactor_MenuIcon.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/GroundPenetratingScanner/GroundPenetratingScanner_MenuIcon.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnCooking_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/HiTechKitchen/HiTechKitchen_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnMining_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/VitalsMonitorMKII/VitalsMonitorMKII_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/LunchboxFull/LunchboxFull_a.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/VitalsMonitorMKII/VitalsMonitorMKII_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Computers/PC_White.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnGrowing_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/GroundPenetratingScanner/GroundPenetratingScanner.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/ImprovedHay/ImprovedHay_b.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnIntellectual_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnArtistic_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/VitalsMonitorMKII/VitalsMonitorMKII_MenuIcon.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnMedicine_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/LunchboxCasing/LunchboxCasing_c.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnGrowing_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnMining_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnAnimals_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnArtistic_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnSocial_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnCrafting_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnMining_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnSocial_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Computers/PC_Medicine.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnIntellectual_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnMedicine_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnCooking_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Computers/PC_Construction.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnConstruction_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Computers/PC_Intellectual.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/LunchboxFull/LunchboxFull_c.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnGrowing_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnIntellectual_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/FusionReactor/FusionReactor_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Computers/PC_Art.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/VitalsMonitorMKII/VitalsMonitorMKII_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnSocial_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/FusionReactor/FusionReactor_east.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/LunchboxFull/LunchboxFull_b.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Computers/PC_Animals.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnCrafting_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnArtistic_south.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/Learning/LearnAnimals_north.png
+- Assets/Data/Mlie.EndgameBuildings/Textures/LunchboxCasing/LunchboxCasing_a.png
+Dependencies: []

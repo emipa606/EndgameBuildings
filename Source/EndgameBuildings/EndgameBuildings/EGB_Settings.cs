@@ -6,7 +6,7 @@ namespace EndgameBuildings;
 
 public class EGB_Settings : Mod
 {
-    private const float MAX_FIREFOAM_POPPER_RADIUS = 56f;
+    private const float MaxFirefoamPopperRadius = 56f;
     public static EGB_SettingsData Settings;
     private static string currentVersion;
 
@@ -21,21 +21,21 @@ public class EGB_Settings : Mod
     {
         var listing_Standard = new Listing_Standard();
         listing_Standard.Begin(inRect);
-        var buffer = Settings.HT_ResearchCost.ToString();
-        listing_Standard.TextFieldNumericLabeled("EGB_HTResearchCost".Translate(), ref Settings.HT_ResearchCost,
+        var buffer = Settings.HtResearchCost.ToString();
+        listing_Standard.TextFieldNumericLabeled("EGB_HTResearchCost".Translate(), ref Settings.HtResearchCost,
             ref buffer, 0f, 100000f);
         listing_Standard.Gap();
-        var buffer2 = Settings.HT_ReactorOutput.ToString();
-        listing_Standard.TextFieldNumericLabeled("EGB_HTReactorOutput".Translate(), ref Settings.HT_ReactorOutput,
+        var buffer2 = Settings.HtReactorOutput.ToString();
+        listing_Standard.TextFieldNumericLabeled("EGB_HTReactorOutput".Translate(), ref Settings.HtReactorOutput,
             ref buffer2, 1f, 999999f);
         listing_Standard.Gap();
-        var buffer3 = Settings.HT_FireFoamPopperRadius.ToString();
+        var buffer3 = Settings.HtFireFoamPopperRadius.ToString();
         listing_Standard.TextFieldNumericLabeled(
-            "EGB_HT_FireFoamPopperRadius".Translate() + Settings.HT_FireFoamPopperRadius.ToString(),
-            ref Settings.HT_FireFoamPopperRadius, ref buffer3, 1f, MAX_FIREFOAM_POPPER_RADIUS);
+            "EGB_HT_FireFoamPopperRadius".Translate() + Settings.HtFireFoamPopperRadius.ToString(),
+            ref Settings.HtFireFoamPopperRadius, ref buffer3, 1f, MaxFirefoamPopperRadius);
         listing_Standard.Gap();
-        Settings.HT_FireFoamPopperRadius =
-            listing_Standard.Slider(Settings.HT_FireFoamPopperRadius, 1f, MAX_FIREFOAM_POPPER_RADIUS);
+        Settings.HtFireFoamPopperRadius =
+            listing_Standard.Slider(Settings.HtFireFoamPopperRadius, 1f, MaxFirefoamPopperRadius);
         EGB_OnDefsLoaded.ApplySettingsToDefs();
         if (currentVersion != null)
         {

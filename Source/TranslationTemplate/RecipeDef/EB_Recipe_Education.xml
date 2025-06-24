@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: learn about animals -->
+  <SE_Edu_Animals.label>learn about animals</SE_Edu_Animals.label>
+  <!-- EN: learn about animals. -->
+  <SE_Edu_Animals.description>learn about animals.</SE_Edu_Animals.description>
+  <!-- EN: Learning about animals. -->
+  <SE_Edu_Animals.jobString>Learning about animals.</SE_Edu_Animals.jobString>
+  <!-- EN: learn artistics -->
+  <SE_Edu_Artistic.label>learn artistics</SE_Edu_Artistic.label>
+  <!-- EN: learn artistics. -->
+  <SE_Edu_Artistic.description>learn artistics.</SE_Edu_Artistic.description>
+  <!-- EN: Learning artistics. -->
+  <SE_Edu_Artistic.jobString>Learning artistics.</SE_Edu_Artistic.jobString>
+  <!-- EN: learn construction -->
+  <SE_Edu_Construction.label>learn construction</SE_Edu_Construction.label>
+  <!-- EN: learn construction. -->
+  <SE_Edu_Construction.description>learn construction.</SE_Edu_Construction.description>
+  <!-- EN: Learning construction. -->
+  <SE_Edu_Construction.jobString>Learning construction.</SE_Edu_Construction.jobString>
+  <!-- EN: learn cooking -->
+  <SE_Edu_Cooking.label>learn cooking</SE_Edu_Cooking.label>
+  <!-- EN: learn cooking. -->
+  <SE_Edu_Cooking.description>learn cooking.</SE_Edu_Cooking.description>
+  <!-- EN: Learning cooking. -->
+  <SE_Edu_Cooking.jobString>Learning cooking.</SE_Edu_Cooking.jobString>
+  <!-- EN: learn crafting -->
+  <SE_Edu_Crafting.label>learn crafting</SE_Edu_Crafting.label>
+  <!-- EN: learn crafting. -->
+  <SE_Edu_Crafting.description>learn crafting.</SE_Edu_Crafting.description>
+  <!-- EN: Learning crafting. -->
+  <SE_Edu_Crafting.jobString>Learning crafting.</SE_Edu_Crafting.jobString>
+  <!-- EN: learn about plants -->
+  <SE_Edu_Growing.label>learn about plants</SE_Edu_Growing.label>
+  <!-- EN: learn about plants. -->
+  <SE_Edu_Growing.description>learn about plants.</SE_Edu_Growing.description>
+  <!-- EN: Learning about plants. -->
+  <SE_Edu_Growing.jobString>Learning about plants.</SE_Edu_Growing.jobString>
+  <!-- EN: learn about science -->
+  <SE_Edu_Intellectual.label>learn about science</SE_Edu_Intellectual.label>
+  <!-- EN: learn about science. -->
+  <SE_Edu_Intellectual.description>learn about science.</SE_Edu_Intellectual.description>
+  <!-- EN: Learning about science. -->
+  <SE_Edu_Intellectual.jobString>Learning about science.</SE_Edu_Intellectual.jobString>
+  <!-- EN: learn modern medicine -->
+  <SE_Edu_Medicine.label>learn modern medicine</SE_Edu_Medicine.label>
+  <!-- EN: learn modern medicine. -->
+  <SE_Edu_Medicine.description>learn modern medicine.</SE_Edu_Medicine.description>
+  <!-- EN: Learning modern medicine. -->
+  <SE_Edu_Medicine.jobString>Learning modern medicine.</SE_Edu_Medicine.jobString>
+  <!-- EN: learn mining -->
+  <SE_Edu_Mining.label>learn mining</SE_Edu_Mining.label>
+  <!-- EN: learn mining. -->
+  <SE_Edu_Mining.description>learn mining.</SE_Edu_Mining.description>
+  <!-- EN: Learning mining. -->
+  <SE_Edu_Mining.jobString>Learning mining.</SE_Edu_Mining.jobString>
+  <!-- EN: learn social skills -->
+  <SE_Edu_Social.label>learn social skills</SE_Edu_Social.label>
+  <!-- EN: learn social skills. -->
+  <SE_Edu_Social.description>learn social skills.</SE_Edu_Social.description>
+  <!-- EN: Learning social skills. -->
+  <SE_Edu_Social.jobString>Learning social skills.</SE_Edu_Social.jobString>
+</LanguageData>

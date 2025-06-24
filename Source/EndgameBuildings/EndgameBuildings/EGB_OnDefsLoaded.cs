@@ -18,10 +18,10 @@ public class EGB_OnDefsLoaded
     {
         AccessTools.Field(typeof(CompProperties_Power), "basePowerConsumption").SetValue(
             DefDatabase<ThingDef>.GetNamed("SE_FusionReactor").comps.OfType<CompProperties_Power>().First(),
-            -Math.Abs(EGB_Settings.Settings.HT_ReactorOutput));
+            -Math.Abs(EGB_Settings.Settings.HtReactorOutput));
         var named = DefDatabase<ThingDef>.GetNamed("FirefoamPopperMKII");
         named.comps.OfType<CompProperties_Explosive>().First().explosiveRadius =
-            EGB_Settings.Settings.HT_FireFoamPopperRadius;
-        named.specialDisplayRadius = EGB_Settings.Settings.HT_FireFoamPopperRadius;
+            EGB_Settings.Settings.HtFireFoamPopperRadius;
+        named.specialDisplayRadius = EGB_Settings.Settings.HtFireFoamPopperRadius;
     }
 }

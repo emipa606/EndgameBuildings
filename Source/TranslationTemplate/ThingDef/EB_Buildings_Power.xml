@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: fusion Reactor -->
+  <SE_FusionReactor.label>fusion Reactor</SE_FusionReactor.label>
+  <!-- EN: Produces lots of power. Beware of it's massive explosion radius if its hitpoints get low. Does not emit heat. -->
+  <SE_FusionReactor.description>Produces lots of power. Beware of it's massive explosion radius if its hitpoints get low. Does not emit heat.</SE_FusionReactor.description>
+</LanguageData>

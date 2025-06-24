@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!--============================== Armored Shelf ==============================-->
   <ThingDef ParentName="FurnitureWithQualityBase">
@@ -59,7 +59,7 @@
   <ThingDef ParentName="ArtableFurnitureBase">
     <defName>SE_Commode</defName>
     <label>commode</label>
-    <description>An improved dresser. Gives a comfort bonus to all nearby beds. Placing more than one commode near the same bed has no effect. Compared to a regular dresser: comfort bonus 0.05--&gt;0.20, Distance 6--&gt;10 and beauty 5--&gt;8.</description>
+    <description>An improved dresser. Gives a comfort bonus to all nearby beds. Placing more than one commode near the same bed has no effect. Compared to a regular dresser: comfort bonus 0.05-->0.20, Distance 6-->10 and beauty 5-->8.</description>
     <graphicData>
       <texPath>Things/Building/Furniture/Dresser</texPath>
       <graphicClass>Graphic_Multi</graphicClass>

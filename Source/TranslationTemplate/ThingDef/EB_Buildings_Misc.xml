@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: hi-tech firefoam popper -->
+  <FirefoamPopperMKII.label>hi-tech firefoam popper</FirefoamPopperMKII.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. Has a bigger radius than the regular Firefoam popper (from 9.9 - -> 24.9). -->
+  <FirefoamPopperMKII.description>When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. Has a bigger radius than the regular Firefoam popper (from 9.9 --> 24.9).</FirefoamPopperMKII.description>
+  <!-- EN: Trigger {0_label} -->
+  <FirefoamPopperMKII.comps.CompUsable.useLabel>Trigger {0_label}</FirefoamPopperMKII.comps.CompUsable.useLabel>
+  <!-- EN: mini ground-penetrating scanner -->
+  <MiniGroundPenetratingScanner.label>mini ground-penetrating scanner</MiniGroundPenetratingScanner.label>
+  <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. Is only 1/4th the size compared to the regular ground-penetrating scanner and has 1/4th of the beauty penalty and power consumption. Reinstallable. -->
+  <MiniGroundPenetratingScanner.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. Is only 1/4th the size compared to the regular ground-penetrating scanner and has 1/4th of the beauty penalty and power consumption. Reinstallable.</MiniGroundPenetratingScanner.description>
+  <!-- EN: tool cabinet MKII -->
+  <SE_ToolCabinetMKII.label>tool cabinet MKII</SE_ToolCabinetMKII.label>
+  <!-- EN: Increases work speed by 12% when placed near a workbench. One workbench use to up to two tool cabinets and up to two "tool cabinet MKII". -->
+  <SE_ToolCabinetMKII.description>Increases work speed by 12% when placed near a workbench. One workbench use to up to two tool cabinets and up to two "tool cabinet MKII".</SE_ToolCabinetMKII.description>
+  <!-- EN: vitals monitor MKII -->
+  <VitalsMonitorMKII.label>vitals monitor MKII</VitalsMonitorMKII.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor MKII to the same bed will have no effect. Has 2x the tend quality, 3x the immunity gain speed factor and 2x the surgery success chance compared to a regular vitals monitor but drains 3x as much power. -->
+  <VitalsMonitorMKII.description>Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor MKII to the same bed will have no effect. Has 2x the tend quality, 3x the immunity gain speed factor and 2x the surgery success chance compared to a regular vitals monitor but drains 3x as much power.</VitalsMonitorMKII.description>
+</LanguageData>

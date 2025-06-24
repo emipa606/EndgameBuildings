@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: educates about animals -->
+  <DoBillsEducateAnimals.label>educates about animals</DoBillsEducateAnimals.label>
+  <!-- EN: learning about animals -->
+  <DoBillsEducateAnimals.gerund>learning about animals</DoBillsEducateAnimals.gerund>
+  <!-- EN: animals -->
+  <DoBillsEducateAnimals.verb>animals</DoBillsEducateAnimals.verb>
+  <!-- EN: educates Artistic -->
+  <DoBillsEducateArtistic.label>educates Artistic</DoBillsEducateArtistic.label>
+  <!-- EN: learning artistic -->
+  <DoBillsEducateArtistic.gerund>learning artistic</DoBillsEducateArtistic.gerund>
+  <!-- EN: artistic -->
+  <DoBillsEducateArtistic.verb>artistic</DoBillsEducateArtistic.verb>
+  <!-- EN: educates about Construction -->
+  <DoBillsEducateConstruction.label>educates about Construction</DoBillsEducateConstruction.label>
+  <!-- EN: laerning construction -->
+  <DoBillsEducateConstruction.gerund>laerning construction</DoBillsEducateConstruction.gerund>
+  <!-- EN: construct -->
+  <DoBillsEducateConstruction.verb>construct</DoBillsEducateConstruction.verb>
+  <!-- EN: educates Cooking -->
+  <DoBillsEducateCooking.label>educates Cooking</DoBillsEducateCooking.label>
+  <!-- EN: laerning cooking -->
+  <DoBillsEducateCooking.gerund>laerning cooking</DoBillsEducateCooking.gerund>
+  <!-- EN: cook -->
+  <DoBillsEducateCooking.verb>cook</DoBillsEducateCooking.verb>
+  <!-- EN: educates Crafting -->
+  <DoBillsEducateCrafting.label>educates Crafting</DoBillsEducateCrafting.label>
+  <!-- EN: learning crafting -->
+  <DoBillsEducateCrafting.gerund>learning crafting</DoBillsEducateCrafting.gerund>
+  <!-- EN: craft -->
+  <DoBillsEducateCrafting.verb>craft</DoBillsEducateCrafting.verb>
+  <!-- EN: educates about Growing -->
+  <DoBillsEducateGrowing.label>educates about Growing</DoBillsEducateGrowing.label>
+  <!-- EN: learning growing -->
+  <DoBillsEducateGrowing.gerund>learning growing</DoBillsEducateGrowing.gerund>
+  <!-- EN: grow -->
+  <DoBillsEducateGrowing.verb>grow</DoBillsEducateGrowing.verb>
+  <!-- EN: educates about science -->
+  <DoBillsEducateIntellectual.label>educates about science</DoBillsEducateIntellectual.label>
+  <!-- EN: learning science -->
+  <DoBillsEducateIntellectual.gerund>learning science</DoBillsEducateIntellectual.gerund>
+  <!-- EN: learn science -->
+  <DoBillsEducateIntellectual.verb>learn science</DoBillsEducateIntellectual.verb>
+  <!-- EN: educates about Medicine -->
+  <DoBillsEducateMedicine.label>educates about Medicine</DoBillsEducateMedicine.label>
+  <!-- EN: learning medicine -->
+  <DoBillsEducateMedicine.gerund>learning medicine</DoBillsEducateMedicine.gerund>
+  <!-- EN: medicine -->
+  <DoBillsEducateMedicine.verb>medicine</DoBillsEducateMedicine.verb>
+  <!-- EN: educates Mining -->
+  <DoBillsEducateMining.label>educates Mining</DoBillsEducateMining.label>
+  <!-- EN: learning mining -->
+  <DoBillsEducateMining.gerund>learning mining</DoBillsEducateMining.gerund>
+  <!-- EN: mine -->
+  <DoBillsEducateMining.verb>mine</DoBillsEducateMining.verb>
+  <!-- EN: educates Social -->
+  <DoBillsEducateSocial.label>educates Social</DoBillsEducateSocial.label>
+  <!-- EN: learning about socializing -->
+  <DoBillsEducateSocial.gerund>learning about socializing</DoBillsEducateSocial.gerund>
+  <!-- EN: social -->
+  <DoBillsEducateSocial.verb>social</DoBillsEducateSocial.verb>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: armored shelf -->
+  <ArmoredShelf.label>armored shelf</ArmoredShelf.label>
+  <!-- EN: An armored shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+  <ArmoredShelf.description>An armored shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside.</ArmoredShelf.description>
+  <!-- EN: commode -->
+  <SE_Commode.label>commode</SE_Commode.label>
+  <!-- EN: An improved dresser. Gives a comfort bonus to all nearby beds. Placing more than one commode near the same bed has no effect. Compared to a regular dresser: comfort bonus 0.05- ->0.20, Distance 6- ->10 and beauty 5- ->8. -->
+  <SE_Commode.description>An improved dresser. Gives a comfort bonus to all nearby beds. Placing more than one commode near the same bed has no effect. Compared to a regular dresser: comfort bonus 0.05-->0.20, Distance 6-->10 and beauty 5-->8.</SE_Commode.description>
+</LanguageData>

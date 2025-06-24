@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: drill gold -->
+  <SE_Drill_Gold.label>drill gold</SE_Drill_Gold.label>
+  <!-- EN: drill gold. -->
+  <SE_Drill_Gold.description>drill gold.</SE_Drill_Gold.description>
+  <!-- EN: Drilling gold -->
+  <SE_Drill_Gold.jobString>Drilling gold</SE_Drill_Gold.jobString>
+  <!-- EN: drill jade -->
+  <SE_Drill_Jade.label>drill jade</SE_Drill_Jade.label>
+  <!-- EN: Drill jade. -->
+  <SE_Drill_Jade.description>Drill jade.</SE_Drill_Jade.description>
+  <!-- EN: Drilling jade. -->
+  <SE_Drill_Jade.jobString>Drilling jade.</SE_Drill_Jade.jobString>
+  <!-- EN: drill compacted plasteel -->
+  <SE_Drill_Plasteel.label>drill compacted plasteel</SE_Drill_Plasteel.label>
+  <!-- EN: Drill compacted plasteel. -->
+  <SE_Drill_Plasteel.description>Drill compacted plasteel.</SE_Drill_Plasteel.description>
+  <!-- EN: Drilling compacted plasteel. -->
+  <SE_Drill_Plasteel.jobString>Drilling compacted plasteel.</SE_Drill_Plasteel.jobString>
+  <!-- EN: drill compacted steel -->
+  <SE_Drill_Steel.label>drill compacted steel</SE_Drill_Steel.label>
+  <!-- EN: Drill compacted steel. -->
+  <SE_Drill_Steel.description>Drill compacted steel.</SE_Drill_Steel.description>
+  <!-- EN: Drilling compacted steel. -->
+  <SE_Drill_Steel.jobString>Drilling compacted steel.</SE_Drill_Steel.jobString>
+  <!-- EN: drill uranium -->
+  <SE_Drill_Uranium.label>drill uranium</SE_Drill_Uranium.label>
+  <!-- EN: Drill uranium. -->
+  <SE_Drill_Uranium.description>Drill uranium.</SE_Drill_Uranium.description>
+  <!-- EN: Drilling uranium. -->
+  <SE_Drill_Uranium.jobString>Drilling uranium.</SE_Drill_Uranium.jobString>
+</LanguageData>

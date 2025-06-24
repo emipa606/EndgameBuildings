@@ -1,4 +1,4 @@
-# EndgameBuildings
+# [Endgame Buildings (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2899213464)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -7,7 +7,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2008140847
 with permission
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -25,7 +24,7 @@ Adds more buildings for endgame content like computers that level up your coloni
 -  If you have have problems with researches overlapping each other (due to having many mods) please use a research mod like this one for example.
 -  100% Compatible with Misc Robots++ but you might want to prohibit them from using the Study desks.
 -  Translation ready.
--  Compatible with and adds recipes from https://steamcommunity.com/sharedfiles/filedetails/?id=2007061826]Vegetable Garden.
+-  Compatible with and adds recipes from [Vegetable Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2007061826).
 
 
 
@@ -68,10 +67,10 @@ Adds more buildings for endgame content like computers that level up your coloni
 
 
 
-- https://steamcommunity.com/sharedfiles/filedetails/?id=747645520]Misc Robots ++
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2010740880]Planetary Drill
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1447140290]Ogre Stack or https://steamcommunity.com/sharedfiles/filedetails/?id=826366050&amp;searchtext=stack+xxl]Stack XXL (chose one)
-- https://steamcommunity.com/sharedfiles/filedetails/?id=946390822]Research Pal
+- [Misc Robots ++](https://steamcommunity.com/sharedfiles/filedetails/?id=747645520)
+- [Planetary Drill](https://steamcommunity.com/sharedfiles/filedetails/?id=2010740880)
+- [Ogre Stack](https://steamcommunity.com/sharedfiles/filedetails/?id=1447140290) or [Stack XXL](https://steamcommunity.com/sharedfiles/filedetails/?id=826366050&amp;searchtext=stack+xxl) (chose one)
+- [Research Pal](https://steamcommunity.com/sharedfiles/filedetails/?id=946390822)
 
 
 
@@ -88,13 +87,12 @@ mrqwer4 for creating custom textures for us. Thank you so much!
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2899213464]![Image](https://img.shields.io/github/v/release/emipa606/EndgameBuildings?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/EndgameBuildings?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2899213464) | tags:  hi-tech

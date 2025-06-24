@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- ================================ Education ================================ -->
   <WorkGiverDef Name="SE_BillEdu" Abstract="True">

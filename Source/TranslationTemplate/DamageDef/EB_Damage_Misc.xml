@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: fusion Bomb -->
+  <BombFusion.label>fusion Bomb</BombFusion.label>
+  <!-- EN: {0} died in a fusion explosion. -->
+  <BombFusion.deathMessage>{0} died in a fusion explosion.</BombFusion.deathMessage>
+</LanguageData>

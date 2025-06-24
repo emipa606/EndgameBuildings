@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ate lavish lunchbox meal -->
+  <AteLavishLunchboxMeal.stages.ate_lavish_lunchbox_meal.label>ate lavish lunchbox meal</AteLavishLunchboxMeal.stages.ate_lavish_lunchbox_meal.label>
+  <!-- EN: That lavish lunchbox meal was amazing. It nourished my body and my soul. -->
+  <AteLavishLunchboxMeal.stages.ate_lavish_lunchbox_meal.description>That lavish lunchbox meal was amazing. It nourished my body and my soul.</AteLavishLunchboxMeal.stages.ate_lavish_lunchbox_meal.description>
+  <!-- EN: ate whole lavish lunchbox casing -->
+  <AteLunchboxCasing.stages.ate_whole_lavish_lunchbox_casing.label>ate whole lavish lunchbox casing</AteLunchboxCasing.stages.ate_whole_lavish_lunchbox_casing.label>
+  <!-- EN: That lavish lunchbox casing is not meant for eating... WHY did I eat it? -->
+  <AteLunchboxCasing.stages.ate_whole_lavish_lunchbox_casing.description>That lavish lunchbox casing is not meant for eating... WHY did I eat it?</AteLunchboxCasing.stages.ate_whole_lavish_lunchbox_casing.description>
+</LanguageData>
