@@ -3,4 +3,46 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="EndgameBuildings/EndgameBuildings.csproj" />
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingDefs_Buildings/">
+    <File Path="../1.7/Defs/ThingDefs_Buildings/EB_Buildings_Furniture.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Buildings/EB_Buildings_Misc_Learning.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Buildings/EB_Buildings_Misc.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Buildings/EB_Buildings_Power.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Buildings/EB_HiTechKitchen_Production.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ResearchProjectDefs/">
+    <File Path="../1.7/Defs/ResearchProjectDefs/EB_ResearchProjects.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingDefs_Items/">
+    <File Path="../1.7/Defs/ThingDefs_Items/EB_Items_Food.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Items/EB_Items_Resource_Manufactured.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Items/EB_Items_Resource_RawPlant.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RecipeDefs/">
+    <File Path="../1.7/Defs/RecipeDefs/EB_Recipe_Education.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/EB_Recipe_Meals.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/EB_Recipe_PlanetaryDrilling.xml" />
+  </Folder>
+  <Folder Name="/XML/Languages/English/Keyed/">
+    <File Path="../Languages/English/Keyed/Translations.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/DamageDefs/">
+    <File Path="../1.7/Defs/DamageDefs/EB_Damage_Misc.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThoughtDefs/">
+    <File Path="../1.7/Defs/ThoughtDefs/EB_Thoughts_Memory_Eating.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Patches/">
+    <File Path="../1.7/Patches/EB_Patches.xml" />
+    <File Path="../1.7/Patches/EB_VegetableGardenPatch.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/WorkGiverDefs/">
+    <File Path="../1.7/Defs/WorkGiverDefs/EB_WorkGivers.xml" />
+  </Folder>
 </Solution>

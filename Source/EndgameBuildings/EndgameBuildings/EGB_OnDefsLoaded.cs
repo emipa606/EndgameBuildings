@@ -7,7 +7,7 @@ using Verse;
 namespace EndgameBuildings;
 
 [StaticConstructorOnStartup]
-public class EGB_OnDefsLoaded
+public static class EGB_OnDefsLoaded
 {
     static EGB_OnDefsLoaded()
     {
